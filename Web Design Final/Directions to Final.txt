@@ -1,0 +1,17 @@
+
+
+Our directions for this Web Design final were to use and put together all of what we've learned in class.
+
+
+We learned Cascade Style Sheet, Javascript, HTML, and Photoshop
+
+
+We were supposed to create a Website that utilized all of these requirements. 
+
+
+Making sure all of the pages linked up and made sure that the site worked in at least one browser.
+
+
+This website works in Chrome.
+
+The grade that this project received was a 96%.
